@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>multimedia/audio/quack.wav</file>
+    </qresource>
+    <qresource prefix="/backgrounds">
+        <file>multimedia/backgrounds/Background_42.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>multimedia/icons/list-add.svg</file>
+    </qresource>
+    <qresource prefix="/avatars">
+        <file>multimedia/avatars/Blue_Duck.png</file>
+        <file>multimedia/avatars/Green_Duck.png</file>
+        <file>multimedia/avatars/HAL.jpg</file>
+        <file>multimedia/avatars/Hippie_Duck.png</file>
+        <file>multimedia/avatars/Red_Duck.png</file>
+        <file>multimedia/avatars/Violet_Duck.png</file>
+        <file>multimedia/avatars/Yellow_Duck.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>multimedia/Skyrim_Font.otf</file>
+    </qresource>
+    <qresource prefix="/misc">
+        <file>multimedia/Escape_From_GOP.png</file>
+    </qresource>
+</RCC>
